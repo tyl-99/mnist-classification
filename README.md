@@ -13,6 +13,7 @@ This project demonstrates the use of Convolutional Neural Networks (CNNs) to cla
 - [Usage](#usage)
   
 ## Overview
+![image](https://github.com/tyl-99/mnist-classification/assets/71328888/29adf5ef-54e1-4734-afc1-b96439c42095)
 
 In this project, we build and train a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset. The model is implemented using PyTorch and achieves high accuracy on both the training and test sets.
 
